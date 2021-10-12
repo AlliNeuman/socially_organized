@@ -7,7 +7,7 @@ ruby '2.5.1'
 gem 'rails', '~> 5.2.0'
 
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 
 #use CarrierWave to upload images"
 gem 'carrierwave'
